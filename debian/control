@@ -16,9 +16,8 @@ Description: Widget style for Qt4 and KDE 4
  features classical, three-dimensional artwork, along with other features not
  found in other styles.
  .
- This package contains the Qt4 and KDE 4 widget style of Skulpture. The
- corresponding KDE 4 widget style is packaged separately in
- kwin-style-skulpture.
+ This package contains the KDE 4 widget style of Skulpture and color themes of
+ Skulpture which allows customization via the KDE 4 System Settings.
 
 Package: kwin-style-skulpture
 Architecture: any
@@ -28,7 +27,4 @@ Description: Window decoration for KDE 4
  features classical, three-dimensional artwork, along with other features not 
  found in other styles.
  .
- This package contains the KDE 4 window decoration and color themes of
- Skulpture which allows customization via the KDE 4 System Settings. The
- corresponding Qt4 and KDE 4 widget style is packaged separately in
- kde-style-skulpture.
+ This package contains the KDE 4 window decoration.
