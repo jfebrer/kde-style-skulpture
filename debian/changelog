@@ -1,3 +1,10 @@
+kde-style-skulpture (0.2.4+git20130414-0r0) UNRELEASED; urgency=low
+
+  [ Josep Febrer Salord ]
+  * New upstream from git revision 431fdd9 which support new Kwin shadows.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 13 Apr 2013 23:23:49 +0200
+
 kde-style-skulpture (0.2.0-1) experimental; urgency=low
 
   * Initial release (Closes: #507067)
