@@ -9,6 +9,7 @@ kde-style-skulpture (0.2.4+git20130414-0r0) UNRELEASED; urgency=low
   * Add kde-workspace-dev (4:4.10.2) build dependency.
   * Correct package descriptions in control.
   * Update install files.
+  * Minor update to copyright file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 13 Apr 2013 23:23:49 +0200
 

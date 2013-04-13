@@ -9,7 +9,7 @@ Upstream Author:
 
 Copyright:
 
-        Copyright (C) 2007-2008 Christoph Feck <christoph@maxiom.de>
+        Copyright (C) 2007-2010 Christoph Feck <christoph@maxiom.de>
 		Copyright (C) 2001 Karol Szwed <gallium@kde.org>
 
 All files except for kwin-client/config/kwin_skulpture_config.cpp are GPLv3.
