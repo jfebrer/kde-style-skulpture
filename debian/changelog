@@ -4,6 +4,9 @@ kde-style-skulpture (0.2.4+git20130414-0r0) UNRELEASED; urgency=low
   * New upstream from git revision 431fdd9 which support new Kwin shadows.
   * Assign package maintainership to Debian Qt/KDE Maintainers.
   * Update rules to use debian-qt-kde.mk.
+  * Remove cdbs build dependency.
+  * Remove kdebase-workspace-dev build-dependency.
+  * Add kde-workspace-dev (4:4.10.2) build dependency.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 13 Apr 2013 23:23:49 +0200
 
